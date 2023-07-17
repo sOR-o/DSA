@@ -16,6 +16,7 @@ using namespace std;
 // Output: [1,2,3]
 
 // Definition of the ListNode structure
+//  Definition of the ListNode structure
 struct ListNode {
     int val;
     ListNode* next;
