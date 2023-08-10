@@ -9,8 +9,11 @@ We believe in the power of collaboration, and we welcome contributions from the 
 4. Create a New Branch: ```git checkout -b feature/new-algorithm```
 5. Add Your Code: Add your DSA implementations or coding question solutions to the relevant directories.
 6. Commit and Push: Commit your changes and push them to your forked repository:
+   
    ```git add .```
+   
    ```git commit -m "Added new algorithm: XYZ"```
+   
    ```git push origin feature/new-algorithm```
 7. Create a Pull Request: Go to the original DSA repository on GitHub and click on the "Pull Request" button. Fill in the necessary details and 
    submit the pull request. Your contribution will be reviewed, and feedback will be provided.
